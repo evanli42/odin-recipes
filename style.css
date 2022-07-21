@@ -1,0 +1,21 @@
+.header-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  color: purple;
+}
+
+body {
+  font-family: sans-serif;
+  background: pink;
+  border: 1px red;
+}
+
+ul {
+  color: teal;
+}
+
